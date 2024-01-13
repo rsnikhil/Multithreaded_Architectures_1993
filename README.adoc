@@ -16,7 +16,7 @@ Architectures that I presented in the early 1990s.  These may be of
 historical interest to computer architects and for computer
 architecture courses.
 
-The tutorial took full day, with Lectures 1 and 2 in the morning and
+The tutorial took a full day, with Lectures 1 and 2 in the morning and
 Lectures 3 and 4 in the afternoon.  I delivered the tutorial at
 several venues, including:
 
