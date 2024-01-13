@@ -11,17 +11,20 @@ Rishiyur S. Nikhil, Bluespec, Inc. (c) 2024
 
 // ================================================================
 
-These are slides and a bibliography from a tutorial given by Rishiyur
-S. Nikhil in the early 1990s at several venues, including:
+These are my slides and bibliography for a tutorial on Multithreaded
+Architectures that I presented in the early 1990s.  These may be of
+historical interest to computer architects and for computer
+architecture courses.
+
+The tutorial took full day, with Lectures 1 and 2 in the morning and
+Lectures 3 and 4 in the afternoon.  I delivered the tutorial at
+several venues, including:
 
 * Intl. Symp. on Computer Architecture (ISCA) 1992 and 1993
 * ACM Computer Science Conference 1993
 * Supercomputing 1993
 
-These may be of historical interest to computer architects.
-
-The tutorial was a full day, with Lectures 1 and 2 in the morning and
-Lectures 3 and 4 in the afternoon.
+I do not recall if any of these were recorded by the conference organizers.
 
 link:preface.pdf[`preface.pdf`] gives an overview; the following summary is from Slide 5:
 
@@ -38,14 +41,14 @@ link:preface.pdf[`preface.pdf`] gives an overview; the following summary is from
 
 * link:lecture-3.pdf[`lecture-3.pdf`]: A Dataflow Story
 ** Pure dataflow: MIT TTDA, Manchester Dataflow, ETL Sigma−1
-** Explicit Token Store dataflow: MIT Monsoon, ETL EM−4
-** Unification: MIT P−RISC, MIT *T
+** Explicit Token Store dataflow: MIT/Motorola Monsoon, ETL EM−4
+** Unification: MIT P−RISC, MIT/Motorola *T
 
 * link:lecture-4.pdf[`lecture-4.pdf`]: The Software Story
 ** New languages and their implementations
 ** Extensions to existing languages
 ** Resource management issues
 
-link:bib.pdf[`bib.pdf`] is an extensive bibliography.
+link:bib.pdf[`bib.pdf`] is a fairly extensive bibliography.
 
 // ================================================================
