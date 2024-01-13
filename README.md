@@ -1,1 +1,0 @@
-# Multithreaded_Architectures_1993

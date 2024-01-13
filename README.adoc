@@ -1,0 +1,51 @@
+= Multithreaded Architectures Tutorial (1993)
+Rishiyur S. Nikhil, Bluespec, Inc. (c) 2024
+:revnumber: v1.0
+:revdate: 2024-01-12
+:sectnums:
+:toc:
+:toclevels: 3
+:toc-title: Contents
+:description: Multithreaded Architectures Tutorial
+:keywords: Multithreading, Computer Architecture, Parallelism, Dataflow
+
+// ================================================================
+
+These are slides and a bibliography from a tutorial given by Rishiyur
+S. Nikhil in the early 1990s at several venues, including:
+
+* Intl. Symp. on Computer Architecture (ISCA) 1992 and 1993
+* ACM Computer Science Conference 1993
+* Supercomputing 1993
+
+These may be of historical interest to computer architects.
+
+The tutorial was a full day, with Lectures 1 and 2 in the morning and
+Lectures 3 and 4 in the afternoon.
+
+link:preface.pdf[`preface.pdf`] gives an overview; the following summary is from Slide 5:
+
+* link:lecture-1.pdf[`lecture-1.pdf`]: Basics issues, ‘‘traditional’’ solutions
+** Latency and synchronization issues
+** Framework: Remote & Synchronizing Loads
+** Basic ideas behind multithreading
+** Distributed cacheing: Stanford DASH, Kendall Square Research KSR−1, MIT Alewife
+
+* link:lecture-2.pdf[`lecture-2.pdf`]: A von Neumann story
+** Denelcor HEP and Tera
+** MIT Dataflow von/Neumann Hybrid and IBM Empire
+** MIT J−Machine
+
+* link:lecture-3.pdf[`lecture-3.pdf`]: A Dataflow Story
+** Pure dataflow: MIT TTDA, Manchester Dataflow, ETL Sigma−1
+** Explicit Token Store dataflow: MIT Monsoon, ETL EM−4
+** Unification: MIT P−RISC, MIT *T
+
+* link:lecture-4.pdf[`lecture-4.pdf`]: The Software Story
+** New languages and their implementations
+** Extensions to existing languages
+** Resource management issues
+
+link:bib.pdf[`bib.pdf`] is an extensive bibliography.
+
+// ================================================================
